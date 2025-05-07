@@ -24,8 +24,8 @@ A simple **Bash**-based CLI tool to help manage mods in your Project Zomboid ser
 1. Clone or download this repository:
 
    ```bash
-   git clone https://github.com/yourusername/pz-mod-manager.git
-   cd pz-mod-manager
+   https://github.com/Zzulfaqar/PZ-cli-automod.git
+   cd PZ-cli-automod
    ```
 2. Make the script executable:
 
